@@ -10,6 +10,8 @@ package epftest2;
  * @author Drojjin_R
  */
 public class EpfTest2 {
+    
+    public int Test;
 
     /**
      * @param args the command line arguments
