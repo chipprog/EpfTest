@@ -12,6 +12,7 @@ package epftest2;
 public class EpfTest2 {
     
     public int Test;
+    public int T5,T7;
 
     /**
      * @param args the command line arguments
