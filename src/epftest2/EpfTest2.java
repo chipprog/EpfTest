@@ -13,6 +13,7 @@ public class EpfTest2 {
     
     public int Test;
     public int T5,T7;
+    public char A;
 
     /**
      * @param args the command line arguments
